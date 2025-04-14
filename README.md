@@ -17,6 +17,7 @@ This project was designed to reinforce key OOP concepts like encapsulation, inhe
 - **Inheritance & Interfaces**
 - **Polymorphism & Abstraction**
 - **Clean and modular architecture**
+- **Path-Finding
 
 ---
 
